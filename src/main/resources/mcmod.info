@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "MBKD",
+    "name": "Mineberry K/D Display",
+    "description": "Shows player K/D in TAB and above heads",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/cewko/mineberry-statistics-mod/releases",
+    "authorList": ["cewko"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
